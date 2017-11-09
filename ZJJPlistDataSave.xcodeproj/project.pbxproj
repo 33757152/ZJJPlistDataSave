@@ -13,6 +13,7 @@
 		89E581F11FB42CF3006B4633 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 89E581F01FB42CF3006B4633 /* Assets.xcassets */; };
 		89E581F41FB42CF3006B4633 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89E581F21FB42CF3006B4633 /* LaunchScreen.storyboard */; };
 		89E581F71FB42CF3006B4633 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 89E581F61FB42CF3006B4633 /* main.m */; };
+		89E581FF1FB42D26006B4633 /* ZJJDontBackUpTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 89E581FE1FB42D26006B4633 /* ZJJDontBackUpTool.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		89E581F31FB42CF3006B4633 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89E581F51FB42CF3006B4633 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		89E581F61FB42CF3006B4633 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		89E581FD1FB42D26006B4633 /* ZJJDontBackUpTool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZJJDontBackUpTool.h; sourceTree = "<group>"; };
+		89E581FE1FB42D26006B4633 /* ZJJDontBackUpTool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZJJDontBackUpTool.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				89E581E81FB42CF3006B4633 /* AppDelegate.m */,
 				89E581EA1FB42CF3006B4633 /* ViewController.h */,
 				89E581EB1FB42CF3006B4633 /* ViewController.m */,
+				89E581FD1FB42D26006B4633 /* ZJJDontBackUpTool.h */,
+				89E581FE1FB42D26006B4633 /* ZJJDontBackUpTool.m */,
 				89E581ED1FB42CF3006B4633 /* Main.storyboard */,
 				89E581F01FB42CF3006B4633 /* Assets.xcassets */,
 				89E581F21FB42CF3006B4633 /* LaunchScreen.storyboard */,
@@ -143,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				89E581EC1FB42CF3006B4633 /* ViewController.m in Sources */,
+				89E581FF1FB42D26006B4633 /* ZJJDontBackUpTool.m in Sources */,
 				89E581F71FB42CF3006B4633 /* main.m in Sources */,
 				89E581E91FB42CF3006B4633 /* AppDelegate.m in Sources */,
 			);
